@@ -40,7 +40,12 @@ Hook, on the other hand, introduces a plethora of new features, boasting an addi
 
 Despite its relatively short lifespan, Hook made its debut announcement on January 12th, 2023, and its closure was declared on April 19th, 2023, citing the actor's departure for a "special military operation." On May 11th, 2023, the actors claimed that the source code for Hook had been sold for a sum of $70,000. If these statements hold true, it is possible that we may witness intriguing new iterations of Hook in the future.
 
+##### Images
+
+![botnet](https://github.com/user-attachments/assets/707d5aa9-ed5f-4366-b89e-f532e350adbc)
+
 <footer>
+
 
 <!--
   <<< Author notes: Footer >>>
