@@ -21,22 +21,14 @@ _Use this only for educational purposes... I am not responsible for your actions
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## What is Botnet
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+ A botnet, also referred to as a "robot network," is a collection of computers that have been infected with malicious software and are controlled by a single attacker known as the "bot-herder." Each individual computer within the botnet is called a bot. Through a centralized command center, the attacker can instruct all the computers in the botnet to carry out coordinated criminal activities simultaneously. The sheer size of a botnet, often consisting of millions of bots, allows the attacker to execute large-scale actions that were previously unattainable with malware alone. Since the botnet remains under the control of the remote attacker, infected machines can receive updates and modify their behavior in real-time. Consequently, bot-herders frequently exploit the black market by renting access to segments of their botnet, resulting in significant financial gains.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+ 
+### About practical
 
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+Hacking without permission is illegal. This channel is strictly educational for learning about cyber-security in the areas of ethical hacking and penetration testing so that we can protect ourselves against the real hackers "
 
 <footer>
 
