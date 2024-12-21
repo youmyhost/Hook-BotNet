@@ -9,7 +9,7 @@
 
 # Android hacking botnet - Hook botnet
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Use this only for educational purposes... I am not responsible for your actions...Love you, guys. Stay safe !!! Stay legal !!._
 
 </header>
 
